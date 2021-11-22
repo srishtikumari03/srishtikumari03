@@ -25,7 +25,7 @@ I am currently learning Neural Networks through courses by Andrew NG.
     <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
     <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
     <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit-learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+    <img alt="scikitlearn" src="https://img.shields.io/badge/-scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
     <img alt="Styled Components" src="https://img.shields.io/badge/-Styled Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white" />
@@ -64,7 +64,7 @@ I am currently learning Neural Networks through courses by Andrew NG.
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Tuesday, 23 November, 12:37 AM IST
+  Last refresh: Tuesday, 23 November, 12:44 AM IST
   <br />
 </p>
 
