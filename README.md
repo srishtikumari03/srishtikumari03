@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-My Name Is Srishti and I am from Pune, Maharashtra, India currently living in Pryagraj, Uttar Pradesh, India. I am a second-year undergraduate at the [Indian Institute of Technology Guwahati (IITG)](http://iitg.ac.in/). I love data analytics. Be on a lookout for any upcoming Repositories as I am learning new things.
+My Name Is Srishti and I am from Pune, Maharashtra, India currently living in Pryagraj, Uttar Pradesh, India. I am a second-year undergraduate at the <a href="http://iitg.ac.in/">Indian Institute of Technology Guwahati (IITG)</a>. I love data analytics. Be on a lookout for any upcoming Repositories as I am learning new things.
 </p>
 
 ## What I am upto these days? ##
@@ -64,7 +64,7 @@ I am currently learning Neural Networks through courses by Andrew NG.
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Tuesday, 23 November, 12:44 AM IST
+  Last refresh: Tuesday, 23 November, 12:48 AM IST
   <br />
 </p>
 
