@@ -1,0 +1,112 @@
+{
+    "personal_details": {
+        "name": "Srishti",
+        "native_name": "सृष्टि",
+        "native_country_name": "भारत",
+        "username": "srishtikumari03",
+        "current": {
+            "country": "India",
+            "state": "Uttar Pradesh",
+            "city": "Pryagraj"
+        },
+        "from": {
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "social_links": [
+            {
+                "name": "facebook",
+                "url": "https://www.facebook.com/profile.php?id=100058001795306",
+                "color": "1877F2"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/gibberish.cringer/",
+                "color": "E4405F"
+            },
+            {
+                "name": "linkedin",
+                "url": "www.linkedin.com/in/mynameissrishti",
+                "color": "0A66C2"
+            },
+            {
+                "name": "gmail",
+                "url": "mailto:ksrishti678@gmail.com",
+                "color": "EA4335"
+            },
+            {
+                "name": "leetcode",
+                "url": "https://leetcode.com/ksrishti_03/",
+                "color": "FFA116"
+            }
+        ]
+    },
+    "date_schema": {
+        "weekday": "long",
+        "month": "long",
+        "day": "numeric",
+        "hour": "numeric",
+        "minute": "numeric",
+        "timeZoneName": "short",
+        "timeZone": "Asia/India"
+    },
+    "skills": {
+        "proficient": [
+            {
+                "name": "C",
+                "logo": "c",
+                "color": "A8B9CC"
+            },
+            {
+                "name": "C++",
+                "logo": "cplusplus",
+                "color": "00599C"
+            },
+            {
+                "name": "NumPy",
+                "logo": "numpy",
+                "color": "013243"
+            },
+            {
+                "name": "Pandas",
+                "logo": "pandas",
+                "color": "150458"
+            },
+            {
+                "name": "scikit-learn",
+                "logo": "scikitlearn",
+                "color": "F7931E"
+            }
+        ],
+        "elementary": [
+            {
+                "name": "Python",
+                "logo": "python",
+                "color": "3776AB"
+            },
+            {
+                "name": "JavaScript",
+                "logo": "javascript",
+                "color": "F7DF1E"
+            },
+            {
+                "name": "Styled Components",
+                "logo": "styled-components",
+                "color": "db7092"
+            }
+        ],
+        "misc": [
+            {
+                "name": "Visual Studio Code",
+                "logo": "visualstudiocode",
+                "color": "007ACC"
+            },
+            {
+                "name": "Anaconda",
+                "logo": "anaconda",
+                "color": "44A833"
+            }
+        ]
+    }
+}
