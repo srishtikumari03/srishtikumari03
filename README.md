@@ -41,7 +41,7 @@ I am currently learning Neural Networks through courses by Andrew NG.
     <a href="https://www.instagram.com/gibberish.cringer/">
       <img alt="instagram Link" src="https://img.shields.io/badge/-instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/mynameissrishti/">
+    <a href="www.linkedin.com/in/mynameissrishti">
       <img alt="linkedin Link" src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:ksrishti678@gmail.com">
@@ -64,7 +64,7 @@ I am currently learning Neural Networks through courses by Andrew NG.
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Friday, 25 February, 11:34 AM IST
+  Last refresh: Friday, 25 February, 04:10 PM IST
   <br />
 </p>
 
