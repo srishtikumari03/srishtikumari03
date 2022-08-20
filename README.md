@@ -64,7 +64,7 @@ I am currently learning Neural Networks through courses by Andrew NG.
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Saturday, 20 August, 11:36 AM IST
+  Last refresh: Saturday, 20 August, 05:38 PM IST
   <br />
 </p>
 
