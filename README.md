@@ -54,8 +54,8 @@ I am currently learning Neural Networks through courses by Andrew NG.
 
 ## A Glance of Pryagraj ##
 <p align="center">
-  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1612981889051-27be7c2d52ec?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHByYXlhZ3JhanxlbnwwfHwwfHw%3D&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
   <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/prayagraj-fort-picture-id1356989238?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;1356989238&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;Hd_mxrICjzUPuoRBKsamRIZ1vs6Nkoc6saotmT2Quv0&#x3D;" /> 
+  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1612981889051-27be7c2d52ec?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHByYXlhZ3JhanxlbnwwfHwwfHw%3D&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
   <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1624124231037-e2149a973c24?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8MXx8YWxsYWhhYmFkfGVufDB8fDB8fA%3D%3D&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
 </p>
 
@@ -64,7 +64,7 @@ I am currently learning Neural Networks through courses by Andrew NG.
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Thursday, 25 August, 05:41 PM IST
+  Last refresh: Thursday, 25 August, 11:33 PM IST
   <br />
 </p>
 
