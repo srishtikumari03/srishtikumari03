@@ -55,8 +55,8 @@ I am currently learning Neural Networks through courses by Andrew NG.
 ## A Glance of Pryagraj ##
 <p align="center">
   <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/big-wooden-boats-in-water-with-cloudy-sky-and-sunbeams-picture-id525109131?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;525109131&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;0sxU4Jhes1FALFY8GJ-GNb1V0YweEHZnNh9X7MFBv3k&#x3D;" /> 
-  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/kumbh-scenes-at-prayagraj-picture-id1186151353?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;1186151353&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;aS3JGI4zq5ZXqQLTGRqQER7YwwREhhLfllDXPf84yLs&#x3D;" /> 
   <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/historical-monument-in-allahabad-uttar-pradesh-india-picture-id471497249?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;471497249&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;xD7bd7GzGfKH4SJGdK1c19WhaHaB4_9fCH5kUzWe2I8&#x3D;" /> 
+  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/kumbh-scenes-at-prayagraj-picture-id1186151353?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;1186151353&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;aS3JGI4zq5ZXqQLTGRqQER7YwwREhhLfllDXPf84yLs&#x3D;" /> 
 </p>
 
 ------------
@@ -64,12 +64,12 @@ I am currently learning Neural Networks through courses by Andrew NG.
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Tuesday, 1 November, 11:46 AM IST
+  Last refresh: Tuesday, 1 November, 05:43 PM IST
   <br />
 </p>
 
 <p align="center">
-  <img alt="Stars" src="https://shields.io/badge/Stars-1-0A66C2?style=for-the-badge"/> 
+  <img alt="Stars" src="https://shields.io/badge/Stars-2-0A66C2?style=for-the-badge"/> 
   <img alt="Forks" src="https://shields.io/badge/Forks-0-0A66C2?style=for-the-badge"/>
 </p>
 
