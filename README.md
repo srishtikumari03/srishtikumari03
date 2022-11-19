@@ -54,9 +54,9 @@ I am currently learning Neural Networks through courses by Andrew NG.
 
 ## A Glance of Pryagraj ##
 <p align="center">
-  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/big-wooden-boats-in-water-with-cloudy-sky-and-sunbeams-picture-id525109131?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;525109131&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;0sxU4Jhes1FALFY8GJ-GNb1V0YweEHZnNh9X7MFBv3k&#x3D;" /> 
-  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/historical-monument-in-allahabad-uttar-pradesh-india-picture-id471497249?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;471497249&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;xD7bd7GzGfKH4SJGdK1c19WhaHaB4_9fCH5kUzWe2I8&#x3D;" /> 
-  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/kumbh-scenes-at-prayagraj-picture-id1186151353?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;1186151353&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;aS3JGI4zq5ZXqQLTGRqQER7YwwREhhLfllDXPf84yLs&#x3D;" /> 
+  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/id/525109131/photo/big-wooden-boats-in-water-with-cloudy-sky-and-sunbeams.jpg?b&#x3D;1&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;k&#x3D;20&amp;c&#x3D;bNcAdZPkLqjlM6eUbBV9GSlz4inlGcYkgppYfx4sPls&#x3D;" /> 
+  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/id/1186151353/photo/kumbh-scenes-at-prayagraj.jpg?b&#x3D;1&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;k&#x3D;20&amp;c&#x3D;l9UWPWT57kYdjYPQz-1GeDRZxC672prLoYku_vC_UUw&#x3D;" /> 
+  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/id/668989666/photo/kumbh-mela-festival-in-allahabad-uttar-pradesh-india.jpg?b&#x3D;1&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;k&#x3D;20&amp;c&#x3D;3av8wr2JQ-dp9d4ksYcWsoE_rPYdF90OYA5mkK_7Eps&#x3D;" /> 
 </p>
 
 ------------
@@ -64,7 +64,7 @@ I am currently learning Neural Networks through courses by Andrew NG.
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Saturday, 19 November, 05:38 PM IST
+  Last refresh: Saturday, 19 November, 11:36 PM IST
   <br />
 </p>
 
