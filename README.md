@@ -64,12 +64,12 @@ I am currently learning Neural Networks through courses by Andrew NG.
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Wednesday, 14 December, 11:37 PM IST
+  Last refresh: Thursday, 15 December, 05:59 AM IST
   <br />
 </p>
 
 <p align="center">
-  <img alt="Stars" src="https://shields.io/badge/Stars-3-0A66C2?style=for-the-badge"/> 
+  <img alt="Stars" src="https://shields.io/badge/Stars-2-0A66C2?style=for-the-badge"/> 
   <img alt="Forks" src="https://shields.io/badge/Forks-0-0A66C2?style=for-the-badge"/>
 </p>
 
