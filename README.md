@@ -56,7 +56,7 @@ I am currently learning Neural Networks through courses by Andrew NG.
 <p align="center">
   <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/id/525109131/photo/big-wooden-boats-in-water-with-cloudy-sky-and-sunbeams.jpg?b&#x3D;1&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;k&#x3D;20&amp;c&#x3D;bNcAdZPkLqjlM6eUbBV9GSlz4inlGcYkgppYfx4sPls&#x3D;" /> 
   <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/id/1186151353/photo/kumbh-scenes-at-prayagraj.jpg?b&#x3D;1&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;k&#x3D;20&amp;c&#x3D;l9UWPWT57kYdjYPQz-1GeDRZxC672prLoYku_vC_UUw&#x3D;" /> 
-  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/id/471497249/photo/historical-monument-in-allahabad-uttar-pradesh-india.jpg?b&#x3D;1&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;k&#x3D;20&amp;c&#x3D;5ELjy4hmW48lvHCbg7FJqmmajKII2-oBRs8yLiSAoMI&#x3D;" /> 
+  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1624124231037-e2149a973c24?ixlib&#x3D;rb-4.0.3&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8MXx8YWxsYWhhYmFkfGVufDB8fDB8fA%3D%3D&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
 </p>
 
 ------------
@@ -64,7 +64,7 @@ I am currently learning Neural Networks through courses by Andrew NG.
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Thursday, 9 March, 11:37 PM IST
+  Last refresh: Friday, 10 March, 06:00 AM IST
   <br />
 </p>
 
